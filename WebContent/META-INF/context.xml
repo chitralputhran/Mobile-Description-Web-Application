@@ -1,0 +1,10 @@
+<Context>
+
+  <Resource name="jdbc/mobile_phones" 
+  			auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="5" maxWait="10000"
+               username="root" password="password" 
+               driverClassName="com.mysql.cj.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/mobile_phones?useSSL=false&amp;serverTimezone=UTC"/>
+
+</Context>
