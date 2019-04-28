@@ -7,8 +7,6 @@
 
 ![workflow image](workflow.jpg)
 
-<br>
-<br>
 
 ## Data Extraction:
 
