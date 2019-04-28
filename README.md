@@ -3,7 +3,9 @@
 >**_Thank you for going through my GitHub repository!_** 
 
 ## Overview 
-![workflow](workflow.JPG)
+<br>
+
+![workflow image](workflow.jpg)
 
 <br>
 <br>
